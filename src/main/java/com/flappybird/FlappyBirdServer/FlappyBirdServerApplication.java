@@ -9,5 +9,5 @@ public class FlappyBirdServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FlappyBirdServerApplication.class, args);
 	}
-
+// comment commit check
 }
